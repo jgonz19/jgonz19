@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeyson Gonzalez  
 - 👀 I’m interested in Web Development, Java and new Tech!
-- 🌱 I’m currently learning Flutter und React
+- 🌱 I’m currently learning Angular and Python
 - 📫 How to reach me Github: https://github.com/jgonz19 or Linkedin: https://www.linkedin.com/in/jeyson-gonzalez/
 
 <!---
